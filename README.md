@@ -11,10 +11,10 @@
     │       └── baseUrl and endpoints
     └── package.json - Configuration for scripts and dependencies
 
-# Run
+# Run test
 
 Run test with `npm test`
-you will get the test result
+> you will get the test result
 
 [
   '16 pidgey',
@@ -26,4 +26,4 @@ you will get the test result
   '22 fearow'
 ]
 
-you can see the demo video pokemon_demo.mov
+> you can see the demo video pokemon_demo.mov
