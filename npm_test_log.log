@@ -1,0 +1,50 @@
+ // log from the console
+
+❯ npm test                                                                   ─╯
+
+> pokemon-api-test@1.0.0 test
+> mocha
+
+
+
+  Pokemon
+    ✔ Get Normal Pokemon (190ms)
+
+
+  1 passing (194ms)
+
+22 fearow is normal
+[ '22 fearow' ]
+18 pidgeot is normal
+[ '18 pidgeot', '22 fearow' ]
+17 pidgeotto is normal
+[ '17 pidgeotto', '18 pidgeot', '22 fearow' ]
+21 spearow is normal
+[ '17 pidgeotto', '18 pidgeot', '21 spearow', '22 fearow' ]
+16 pidgey is normal
+[
+  '16 pidgey',
+  '17 pidgeotto',
+  '18 pidgeot',
+  '21 spearow',
+  '22 fearow'
+]
+19 rattata is normal
+[
+  '16 pidgey',
+  '17 pidgeotto',
+  '18 pidgeot',
+  '19 rattata',
+  '21 spearow',
+  '22 fearow'
+]
+20 raticate is normal
+[
+  '16 pidgey',
+  '17 pidgeotto',
+  '18 pidgeot',
+  '19 rattata',
+  '20 raticate',
+  '21 spearow',
+  '22 fearow'
+]
