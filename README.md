@@ -11,7 +11,7 @@
     │       └── baseUrl and endpoints
     └── package.json - Configuration for scripts and dependencies
 
-# Run test
+# Run Test
 
 Run test with `npm test`
 > you will get the test result
